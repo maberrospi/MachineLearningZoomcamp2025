@@ -1,1 +1,1 @@
-This repo is dedicated to the Machine Learning Zoomcamp by DataTalksClub and includes the notes and work I did following allong.
+# This repo is dedicated to the Machine Learning Zoomcamp by DataTalksClub and includes the notes and work I did following allong.
